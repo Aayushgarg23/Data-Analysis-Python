@@ -107,3 +107,4 @@ plt.tight_layout()
 plt.show()
 
 mse, r2
+
