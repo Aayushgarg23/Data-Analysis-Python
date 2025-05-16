@@ -4,7 +4,6 @@ Created on Fri Apr 11 10:16:11 2025
 
 @author: shitiz
 """
-
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.linear_model import LinearRegression
